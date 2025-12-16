@@ -1,2 +1,20 @@
-# dynamic-pricing-backend
-Built a real-time pricing system that predicts optimal delivery price using machine learning based on product weight, distance, and delivery conditions. Integrated a backend Flask API with a lightweight UI.
+# Dynamic Pricing Backend (Flask + ML)
+
+Machine-learning powered backend API that predicts delivery pricing based on weight, distance and delivery conditions. Includes model training, preprocessing and prediction endpoints exposed through Flask.
+
+## Features
+• ML based price prediction  
+• Smart margin calculation  
+• REST API endpoint  
+• Pre-trained pickle model files  
+• Python and Flask based backend   
+
+## Tech Stack
+Python, Flask, Scikit-Learn
+
+## How to Run
+pip install -r requirements.txt  
+python app.py
+
+## Author
+Aryan Nagdev
